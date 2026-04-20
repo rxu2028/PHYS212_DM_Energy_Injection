@@ -1,1 +1,1 @@
-ExoCLASS ini files generated from code
+ExoCLASS ini files for generating CMB anisotropies
